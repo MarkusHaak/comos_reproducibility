@@ -1,0 +1,10 @@
+sample_name,NAT_source,ref_source,WGA_source
+OLeary/Riv16,https://sra-pub-src-2.s3.amazonaws.com/SRR21143304/Riv16.native_fast5s.tar.gz.1,CP090316.1,https://sra-pub-src-2.s3.amazonaws.com/SRR21131502/Riv16.amplified_fast5s.tar.gz.1
+MicrobeMod/CVM82_Flavobacterium_johnsoniae,s3://cultivarium-sequencing/MICROBEMOD-DATA-NOV2023/pod5/,s3://cultivarium-sequencing/MICROBEMOD-DATA-NOV2023/reference_genomes/,
+MicrobeMod/CVM08_Lactococcus_lactis,s3://cultivarium-sequencing/MICROBEMOD-DATA-NOV2023/pod5/,s3://cultivarium-sequencing/MICROBEMOD-DATA-NOV2023/reference_genomes/,
+No684_Glaeser_Mikroplastik/THAF30,cebitec:/prj/methylom/No684_Glaeser_Mikroplastik/THAF30/raws,cebitec:/prj/methylom/No684_Glaeser_Mikroplastik/THAF30/*.fna,
+No684_Glaeser_Mikroplastik/THAF100,cebitec:/prj/methylom/No684_Glaeser_Mikroplastik/THAF100/raws,cebitec:/prj/methylom/No684_Glaeser_Mikroplastik/THAF100/*.fna,
+Veillonella/MS107_nitrate,/vol/data/datasets/Veillonella/MS107_nitrate/,/vol/data/references/Veillonella/MS107/MS107.fasta,/vol/data/datasets/Veillonella/MS107_control/
+Veillonella/MS107_lactate,/vol/data/datasets/Veillonella/MS107_lactate/,/vol/data/references/Veillonella/MS107/MS107.fasta,/vol/data/datasets/Veillonella/MS107_control/
+Veillonella/MS109_nitrate,/vol/data/datasets/Veillonella/MS109_nitrate/,/vol/data/references/Veillonella/MS109/MS109.fasta,/vol/data/datasets/Veillonella/MS109_control/
+Veillonella/MS109_lactate,/vol/data/datasets/Veillonella/MS109_lactate/,/vol/data/references/Veillonella/MS109/MS109.fasta,/vol/data/datasets/Veillonella/MS109_control/
