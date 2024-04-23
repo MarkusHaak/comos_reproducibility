@@ -1,0 +1,3 @@
+[submodule "snakemake-workflows/nanopore-methylation-calling"]
+	path = snakemake-workflows/nanopore-methylation-calling
+	url = https://github.com/MarkusHaak/nanopore-methylation-calling.git
