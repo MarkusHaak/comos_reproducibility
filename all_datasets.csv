@@ -8,3 +8,5 @@ Veillonella/MS107_nitrate,/vol/data/datasets/Veillonella/MS107_nitrate/,/vol/dat
 Veillonella/MS107_lactate,/vol/data/datasets/Veillonella/MS107_lactate/,/vol/data/references/Veillonella/MS107/MS107.fasta,/vol/data/datasets/Veillonella/MS107_control/
 Veillonella/MS109_nitrate,/vol/data/datasets/Veillonella/MS109_nitrate/,/vol/data/references/Veillonella/MS109/MS109.fasta,/vol/data/datasets/Veillonella/MS109_control/
 Veillonella/MS109_lactate,/vol/data/datasets/Veillonella/MS109_lactate/,/vol/data/references/Veillonella/MS109/MS109.fasta,/vol/data/datasets/Veillonella/MS109_control/
+Veillonella/MS061_nitrate,/vol/data/datasets/Veillonella/MS061_nitrate/,/vol/data/references/Veillonella/MS061_hybrid/assembly.fasta,/vol/data/datasets/Veillonella/MS061_control/
+Veillonella/MS061_lactate,/vol/data/datasets/Veillonella/MS061_lactate/,/vol/data/references/Veillonella/MS061_hybrid/assembly.fasta,/vol/data/datasets/Veillonella/MS061_control/
