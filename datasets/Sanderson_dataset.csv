@@ -1,0 +1,13 @@
+,dataset,sample,NAT_source,ref_source,WGA_source,priority,run_accession,strain,tax_id
+1,Sanderson,Ecoli_r10.4,https://sra-pub-src-2.s3.amazonaws.com/ERR9127552/Ecoli_r10.4.tar.gz.1,GCF_000007445.1,,1,ERR9127552,CFT073,199310
+2,Sanderson,Ecoli_r9,https://sra-pub-src-2.s3.amazonaws.com/ERR9127551/ecoli_r9.tar.gz.1,GCF_000007445.1,,1,ERR9127551,CFT073,199310
+3,Sanderson,Ecoli_r10.4_plex,https://sra-pub-src-1.s3.amazonaws.com/ERR9287603/Ecoli_r10.4_plex.tar.gz.2,GCF_000007445.1,,0,ERR9287603,CFT073,199310
+4,Sanderson,Kpneumoniae_r10.4,https://sra-pub-src-2.s3.amazonaws.com/ERR9127555/Kpneu_r10.4.tar.gz.1,GCF_000016305.1,,1,ERR9127555,MGH78578,272620
+5,Sanderson,Kpneumoniae_r9,https://sra-pub-src-2.s3.amazonaws.com/ERR9127554/Kpneu_r9.tar.gz.1,GCF_000016305.1,,1,ERR9127554,MGH78578,272620
+6,Sanderson,Kpneumoniae_r10.4_plex,https://sra-pub-src-1.s3.amazonaws.com/ERR9287604/Kpneumo_r10.4_plex.tar.gz.1,GCF_000016305.1,,0,ERR9287604,MGH78578,272620
+7,Sanderson,Paeruginosa_r10.4,https://sra-pub-src-2.s3.amazonaws.com/ERR9127561/Pa01_r10.4.tar.gz.1,GCF_000006765.1,,1,ERR9127561,PAO1,208964
+8,Sanderson,Paeruginosa_r9,https://sra-pub-src-2.s3.amazonaws.com/ERR9127560/Pa01_r9.tar.gz.1,GCF_000006765.1,,1,ERR9127560,PAO1,208964
+9,Sanderson,Paeruginosa_r10.4_plex,https://sra-pub-src-1.s3.amazonaws.com/ERR9287606/Pa01_r10.4_plex.tar.gz.2,GCF_000006765.1,,0,ERR9287606,PAO1,208964
+10,Sanderson,Saureus_r10.4,https://sra-pub-src-2.s3.amazonaws.com/ERR9127557/MRSA_r10.4.tar.gz.1,GCF_000011505.1,,1,ERR9127557,MRSA252,282458
+11,Sanderson,Saureus_r9,https://sra-pub-src-2.s3.amazonaws.com/ERR9127558/MRSA_r9.tar.gz.1,GCF_000011505.1,,1,ERR9127558,MRSA252,282458
+12,Sanderson,Saureus_r10.4_plex,https://sra-pub-src-2.s3.amazonaws.com/ERR9287605/MRSA_r10.4_plex.tar.gz.2,GCF_000011505.1,,0,ERR9287605,MRSA252,282458
