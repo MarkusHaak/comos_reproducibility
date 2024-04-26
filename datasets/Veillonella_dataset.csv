@@ -1,7 +1,7 @@
 ,dataset,sample,NAT_source,ref_source,WGA_source,priority
-1,Veillonella,MS061_lactate,/vol/data/datasets/Veillonella/MS061_lactate/,/vol/data/references/Veillonella/MS061_lactate/MS061.fasta,/vol/data/datasets/Veillonella/MS061_control/,0
-2,Veillonella,MS061_nitrate,/vol/data/datasets/Veillonella/MS061_nitrate/,/vol/data/references/Veillonella/MS061_nitrate/MS061.fasta,/vol/data/datasets/Veillonella/MS061_control/,0
-3,Veillonella,MS107_lactate,/vol/data/datasets/Veillonella/MS107_lactate/,/vol/data/references/Veillonella/MS107_lactate/MS107.fasta,/vol/data/datasets/Veillonella/MS107_control/,0
-4,Veillonella,MS107_nitrate,/vol/data/datasets/Veillonella/MS107_nitrate/,/vol/data/references/Veillonella/MS107_nitrate/MS107.fasta,/vol/data/datasets/Veillonella/MS107_control/,0
-5,Veillonella,MS109_lactate,/vol/data/datasets/Veillonella/MS109_lactate/,/vol/data/references/Veillonella/MS109_lactate/MS109.fasta,/vol/data/datasets/Veillonella/MS109_control/,0
-6,Veillonella,MS109_nitrate,/vol/data/datasets/Veillonella/MS109_nitrate/,/vol/data/references/Veillonella/MS109_nitrate/MS109.fasta,/vol/data/datasets/Veillonella/MS109_control/,0
+1,Veillonella,MS061_lactate,/vol/data/datasets/Veillonella/MS061_lactate/,/vol/data/references/Veillonella/MS061/MS061.fasta,/vol/data/datasets/Veillonella/MS061_control/,0
+2,Veillonella,MS061_nitrate,/vol/data/datasets/Veillonella/MS061_nitrate/,/vol/data/references/Veillonella/MS061/MS061.fasta,/vol/data/datasets/Veillonella/MS061_control/,0
+3,Veillonella,MS107_lactate,/vol/data/datasets/Veillonella/MS107_lactate/,/vol/data/references/Veillonella/MS107/MS107.fasta,/vol/data/datasets/Veillonella/MS107_control/,0
+4,Veillonella,MS107_nitrate,/vol/data/datasets/Veillonella/MS107_nitrate/,/vol/data/references/Veillonella/MS107/MS107.fasta,/vol/data/datasets/Veillonella/MS107_control/,0
+5,Veillonella,MS109_lactate,/vol/data/datasets/Veillonella/MS109_lactate/,/vol/data/references/Veillonella/MS109/MS109.fasta,/vol/data/datasets/Veillonella/MS109_control/,0
+6,Veillonella,MS109_nitrate,/vol/data/datasets/Veillonella/MS109_nitrate/,/vol/data/references/Veillonella/MS109/MS109.fasta,/vol/data/datasets/Veillonella/MS109_control/,0
