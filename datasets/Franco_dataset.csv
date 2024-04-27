@@ -1,0 +1,33 @@
+
+,dataset,sample,NAT_source,ref_source,WGA_source,priority,run_accession,sample_accession,scientific_name,tax_id
+,Franco,THAF10,https://sra-pub-src-2.s3.amazonaws.com/SRR10297999/THAF010_ONT_fast5.tar.gz.2,GCA_009363695.1,,0,SRR10297999,SAMN11996113,Bacillus sp. THAF10,2587848
+,Franco,THAF29,https://sra-pub-src-2.s3.amazonaws.com/SRR10297992/THAF029_ONT_fast5.tar.gz.2,GCA_009363635.1,,0,SRR10297992,SAMN11996116,Erythrobacter sp. THAF29,2587851
+,Franco,THAF12,https://sra-pub-src-2.s3.amazonaws.com/SRR10297997/THAF012_ONT_fast5.tar.gz.2,GCA_009363675.1,,0,SRR10297997,SAMN11996114,Halomonas sp. THAF12,2587849
+,Franco,THAF5a,https://sra-pub-src-2.s3.amazonaws.com/SRR10297959/THAF005a_ONT_fast5.tar.gz.2,GCA_009363755.1,,0,SRR10297959,SAMN11996109,Halomonas sp. THAF5a,2587844
+,Franco,THAF187b,https://sra-pub-src-2.s3.amazonaws.com/SRR10297963/THAF187b_ONT_fast5.tar.gz.2,GCA_009363375.1,,0,SRR10297963,SAMN11996129,Labrenzia sp. THAF187b,2587864
+,Franco,THAF191a,https://sra-pub-src-2.s3.amazonaws.com/SRR10297960/THAF191a_ONT_fast5.tar.gz.2,GCA_009363335.1,,0,SRR10297960,SAMN11996131,Labrenzia sp. THAF191a,2587866
+,Franco,THAF191b,https://sra-pub-src-2.s3.amazonaws.com/SRR10297957/THAF191b_ONT_fast5.tar.gz.2,GCA_009363315.1,,0,SRR10297957,SAMN11996132,Labrenzia sp. THAF191b,2587867
+,Franco,THAF35,https://sra-pub-src-2.s3.amazonaws.com/SRR10297986/THAF035_ONT_fast5.tar.gz.2,GCA_009363595.1,,0,SRR10297986,SAMN11996119,Labrenzia sp. THAF35,2587854
+,Franco,THAF82,https://sra-pub-src-2.s3.amazonaws.com/SRR10297971/THAF082_ONT_fast5.tar.gz.2,GCA_009363435.1,,0,SRR10297971,SAMN11996126,Labrenzia sp. THAF82,2587861
+,Franco,THAF197a,https://sra-pub-src-2.s3.amazonaws.com/SRR10297953/THAF197a_ONT_fast5.tar.gz.2,GCA_009363275.1,,0,SRR10297953,SAMN11996134,Marinobacter sp. THAF197a,2587869
+,Franco,THAF39,https://sra-pub-src-2.s3.amazonaws.com/SRR10297982/THAF039_ONT_fast5.tar.gz.2,GCA_009363515.1,,0,SRR10297982,SAMN11996122,Marinobacter sp. THAF39,2587857
+,Franco,THAF38,https://sra-pub-src-2.s3.amazonaws.com/SRR10297981/THAF038_ONT_fast5.tar.gz.3,GCA_009363535.1,,0,SRR10297981,SAMN11996121,Microbulbifer sp. THAF38,2587856
+,Franco,THAF192,https://sra-pub-src-2.s3.amazonaws.com/SRR10297955/THAF192_ONT_fast5.tar.gz.2,GCA_009363295.1,,0,SRR10297955,SAMN11996133,Mycobacterium sp. THAF192,2587868
+,Franco,THAF1,https://sra-pub-src-1.s3.amazonaws.com/SRR10298003/THAF001_ONT_fast5.tar.gz.2,GCA_009363795.1,,0,SRR10298003,SAMN11996107,Palleronia sp. THAF1,2587842
+,Franco,THAF3,https://sra-pub-src-2.s3.amazonaws.com/SRR10297980/THAF003_ONT_fast5.tar.gz.2,GCA_009363775.1,,0,SRR10297980,SAMN11996108,Pseudoalteromonas sp. THAF3,2587843
+,Franco,THAF187a,https://sra-pub-src-2.s3.amazonaws.com/SRR10297966/THAF187a_ONT_fast5.tar.gz.2,GCA_009363395.1,,0,SRR10297966,SAMN11996128,Pseudomonas sp. THAF187a,2587863
+,Franco,THAF42,https://sra-pub-src-2.s3.amazonaws.com/SRR10297975/THAF042_ONT_fast5.tar.gz.2,GCA_009363475.1,,0,SRR10297975,SAMN11996124,Pseudomonas sp. THAF42,2587859
+,Franco,THAF197b,https://sra-pub-src-2.s3.amazonaws.com/SRR10297951/THAF197b_ONT_fast5.tar.gz.2,GCA_009363255.1,,0,SRR10297951,SAMN11996135,Roseivivax sp. THAF197b,2588299
+,Franco,THAF30,https://sra-pub-src-2.s3.amazonaws.com/SRR10297990/THAF030_ONT_fast5.tar.gz.2,GCA_009363575.1,,0,SRR10297990,SAMN11996117,Roseivivax sp. THAF30,2587852
+,Franco,THAF40,https://sra-pub-src-2.s3.amazonaws.com/SRR10297977/THAF040_ONT_fast5.tar.gz.2,GCA_009363495.1,,0,SRR10297977,SAMN11996123,Roseivivax sp. THAF40,2587858
+,Franco,THAF27,https://sra-pub-src-2.s3.amazonaws.com/SRR10297994/THAF027_ONT_fast5.tar.gz.2,GCA_009363655.1,,0,SRR10297994,SAMN11996115,Roseovarius sp. THAF27,2587850
+,Franco,THAF8,https://sra-pub-src-2.s3.amazonaws.com/SRR10297947/THAF008_ONT_fast5.tar.gz.2,GCA_009363735.1,,0,SRR10297947,SAMN11996111,Roseovarius sp. THAF8,2587846
+,Franco,THAF9,https://sra-pub-src-2.s3.amazonaws.com/SRR10298001/THAF009_ONT_fast5.tar.gz.2,GCA_009363715.1,,0,SRR10298001,SAMN11996112,Roseovarius sp. THAF9,2587847
+,Franco,THAF33,https://sra-pub-src-2.s3.amazonaws.com/SRR10297988/THAF033_ONT_fast5.tar.gz.2,GCA_009363615.1,,0,SRR10297988,SAMN11996118,Ruegeria sp. THAF33,2587853
+,Franco,THAF7b,https://sra-pub-src-2.s3.amazonaws.com/SRR10297949/THAF007b_ONT_fast5.tar.gz.2,GCA_009363815.1,,0,SRR10297949,SAMN11996110,Stutzerimonas frequens,2968969
+,Franco,THAF37,https://sra-pub-src-2.s3.amazonaws.com/SRR10297984/THAF037_ONT_fast5.tar.gz.2,GCA_009363555.1,,0,SRR10297984,SAMN11996120,Sulfitobacter sp. THAF37,2587855
+,Franco,THAF100,https://sra-pub-src-2.s3.amazonaws.com/SRR10297968/THAF100_ONT_fast5.tar.gz.2,GCA_009363415.1,,0,SRR10297968,SAMN11996127,Vibrio aquimaris,2587862
+,Franco,THAF190c,https://sra-pub-src-2.s3.amazonaws.com/SRR10297961/THAF190c_ONT_fast5.tar.gz.2,GCA_009363355.1,,0,SRR10297961,SAMN11996130,Vibrio sp. THAF190c,2587865
+,Franco,THAF191c,https://sra-pub-src-2.s3.amazonaws.com/SRR10436014/THAF191c_ONT_fast5.tar.gz.1,GCA_009708195.1,,0,SRR10436014,SAMN13091047,Vibrio sp. THAF191c,2661921
+,Franco,THAF191d,https://sra-pub-src-2.s3.amazonaws.com/SRR10436012/THAF191d_ONT_fast5.tar.gz.1,GCA_009676865.1,,0,SRR10436012,SAMN13091048,Vibrio sp. THAF191d,2661922
+,Franco,THAF64,https://sra-pub-src-2.s3.amazonaws.com/SRR10297973/THAF064_ONT_fast5.tar.gz.3,GCA_009363455.1,,0,SRR10297973,SAMN11996125,Vibrio sp. THAF64,2587860
