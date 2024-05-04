@@ -1,0 +1,31 @@
+,dataset,sample,NAT_source,ref_source,WGA_source,priority,strain,sample_accession,tax_id
+,OLeary,AlmaEM3,,GCA_018069645.1,https://sra-pub-src-2.s3.amazonaws.com/SRR21131535/BB08.amplified_fast5s.tar.gz.1,0,AlmaEM3,SAMN18677605,644357
+,OLeary,Bak1,https://sra-pub-src-2.s3.amazonaws.com/SRR21131474/Bak1.native_fast5s.tar.gz.1,GCA_009664125.2,,0,Bakersfield-1,SAMN11914553,644356
+,OLeary,Bak8,https://sra-pub-src-1.s3.amazonaws.com/SRR21131514/Bak8.native_fast5s.tar.gz.1,GCA_015476035.1,https://sra-pub-src-1.s3.amazonaws.com/SRR21131512/Bak8.amplified_fast5s.tar.gz.1,0,Bakersfield-8,SAMN16582176,644356
+,OLeary,Bak11_SRR21143303,https://sra-pub-src-1.s3.amazonaws.com/SRR21143303/Bak11.native_fast5s.tar.gz.1,GCA_015476015.1,,0,Bakersfield-11,SAMN16582177,644356
+,OLeary,Bak11_SRR21131510,https://sra-pub-src-2.s3.amazonaws.com/SRR21131510/Bak11.native_fast5s.tar.gz.1,GCA_015476015.1,,0,Bakersfield-11,SAMN16582177,644356
+,OLeary,Bak13,https://sra-pub-src-1.s3.amazonaws.com/SRR21131508/Bak13.native_fast5s.tar.gz.1,GCA_015475995.1,https://sra-pub-src-1.s3.amazonaws.com/SRR21131507/Bak13.amplified_fast5s.tar.gz.1,0,Bakersfield-13,SAMN16582178,644356
+,OLeary,Bak14,https://sra-pub-src-2.s3.amazonaws.com/SRR21131505/Bak14.native_fast5s.tar.gz.1,GCA_015475975.1,,0,Bakersfield-14,SAMN16582179,644356
+,OLeary,BB08-1,https://sra-pub-src-2.s3.amazonaws.com/SRR21131536/BB08.native_fast5s.tar.gz.1,GCA_018069665.1,https://sra-pub-src-2.s3.amazonaws.com/SRR21131535/BB08.amplified_fast5s.tar.gz.1,0,BB08-1,SAMN18677606,644357
+,OLeary,De_Donno,https://sra-pub-src-2.s3.amazonaws.com/SRR21131477/DeDonno.native_fast5s.tar.gz.1,GCA_002117875.1,https://sra-pub-src-2.s3.amazonaws.com/SRR21131476/DeDonno.amplified_fast5s.tar.gz.1,0,De Donno,SAMN30370984,698414
+,OLeary,Dixon,https://sra-pub-src-1.s3.amazonaws.com/SRR21131497/Dixon.native_fast5s.tar.gz.1,GCA_029626005.1,https://sra-pub-src-2.s3.amazonaws.com/SRR21131496/Dixon.amplified_fast5s.tar.gz.1,0,Dixon,SAMN30370985,644357
+,OLeary,Fillmore,https://sra-pub-src-1.s3.amazonaws.com/SRR21131490/Fillmore.native_fast5s.tar.gz.1,GCA_012974105.1,https://sra-pub-src-2.s3.amazonaws.com/SRR21131489/Fillmore.amplified_fast5s.tar.gz.1,0,Fillmore,SAMN14680500,644357
+,OLeary,LA-Y3C,https://sra-pub-src-2.s3.amazonaws.com/SRR21131519/LA-Y3C.native_fast5s.tar.gz.1,GCA_021459845.1,https://sra-pub-src-2.s3.amazonaws.com/SRR21131518/LA-Y3C.amplified_fast5s.tar.gz.1,0,LA-Y3C,SAMN24371052,644357
+,OLeary,LM10,https://sra-pub-src-2.s3.amazonaws.com/SRR21131493/LM10.native_fast5s.tar.gz.1,GCA_012974145.1,https://sra-pub-src-2.s3.amazonaws.com/SRR21131492/LM10.amplified_fast5s.tar.gz.1,0,LM10,SAMN14680501,644357
+,OLeary,M12,https://sra-pub-src-1.s3.amazonaws.com/SRR21131486/M12.native_fast5s.tar.gz.1,GCA_000019325.1,https://sra-pub-src-2.s3.amazonaws.com/SRR21131485/M12.amplified_fast5s.tar.gz.1,0,M12,SAMN30370980,405440
+,OLeary,M23,https://sra-pub-src-1.s3.amazonaws.com/SRR21131488/M23.native_fast5s.tar.gz.1,GCA_000019765.1,https://sra-pub-src-2.s3.amazonaws.com/SRR21131487/M23.amplified_fast5s.tar.gz.1,0,M23,SAMN30370979,405441
+,OLeary,M23deltaXfaIHsdS,https://sra-pub-src-1.s3.amazonaws.com/SRR21131482/M23deltaXfaIHsdS.native_fast5s.tar.gz.1,GCA_000019765.1,https://sra-pub-src-2.s3.amazonaws.com/SRR21131481/M23deltaXfaIHsdS.amplified_fast5s.tar.gz.1,0,M23,SAMN30370982,405441
+,OLeary,OC8,https://sra-pub-src-2.s3.amazonaws.com/SRR21131480/OC8.native_fast5s.tar.gz.1,GCA_021474225.1,https://sra-pub-src-2.s3.amazonaws.com/SRR21131469/OC8.amplified_fast5s.tar.gz.1,0,OC8,SAMN24371056,671135
+,OLeary,Oak35874,https://sra-pub-src-1.s3.amazonaws.com/SRR21131522/Oak35874.native_fast5s.tar.gz.1,GCA_021459905.1,https://sra-pub-src-2.s3.amazonaws.com/SRR21131521/Oak35874.amplified_fast5s.tar.gz.1,0,Oak 35874,SAMN24371051,644357
+,OLeary,Red_Oak2,https://sra-pub-src-1.s3.amazonaws.com/SRR21131499/RedOak2.native_fast5s.tar.gz.1,GCA_015475935.1,https://sra-pub-src-2.s3.amazonaws.com/SRR21131498/RedOak2.amplified_fast5s.tar.gz.1,0,Red Oak 2,SAMN16582182,644357
+,OLeary,Red_Oak8,https://sra-pub-src-2.s3.amazonaws.com/SRR21131525/RedOak08.native_fast5s.tar.gz.1,GCA_021459885.1,,0,Red Oak 8,SAMN24371050,644357
+,OLeary,RH1,https://sra-pub-src-2.s3.amazonaws.com/SRR21131495/RH1.native_fast5s.tar.gz.1,GCA_012974125.1,https://sra-pub-src-2.s3.amazonaws.com/SRR21131494/RH1.amplified_fast5s.tar.gz.1,0,RH1,SAMN14680502,644357
+,OLeary,Riv5,https://sra-pub-src-1.s3.amazonaws.com/SRR21131503/Riv5.native_fast5s.tar.gz.1,GCA_015475955.1,https://sra-pub-src-1.s3.amazonaws.com/SRR21131501/Riv5.amplified_fast5s.tar.gz.1,0,Riv5,SAMN16582180,644357
+,OLeary,Riv11,https://sra-pub-src-1.s3.amazonaws.com/SRR21131447/Riv11.native_fast5s.tar.gz.1,GCA_021459865.1,,0,Riv11,SAMN24371053,2783797
+,OLeary,Riv13,https://sra-pub-src-1.s3.amazonaws.com/SRR21131533/Riv13.native_fast5s.tar.gz.1,GCA_021459945.1,,0,Riv13,SAMN24371049,644356
+,OLeary,Riv16,https://sra-pub-src-2.s3.amazonaws.com/SRR21143304/Riv16.native_fast5s.tar.gz.1,GCA_021398655.1,https://sra-pub-src-2.s3.amazonaws.com/SRR21131502/Riv16.amplified_fast5s.tar.gz.1,0,Riv16,SAMN16582181,2783797
+,OLeary,Riv19,https://sra-pub-src-2.s3.amazonaws.com/SRR21131531/Riv19.native_fast5s.tar.gz.1,GCA_021459805.1,https://sra-pub-src-1.s3.amazonaws.com/SRR21131530/Riv19.amplified_fast5s.tar.gz.1,0,Riv19,SAMN24371054,2783797
+,OLeary,Riv25,https://sra-pub-src-2.s3.amazonaws.com/SRR21131528/Riv25.native_fast5s.tar.gz.1,GCA_021459825.1,https://sra-pub-src-2.s3.amazonaws.com/SRR21131527/Riv25.amplified_fast5s.tar.gz.1,0,Riv25,SAMN24371055,2783797
+,OLeary,Stags_Leap,https://sra-pub-src-2.s3.amazonaws.com/SRR21131517/StagsLeap.native_fast5s.tar.gz.1,GCA_021459925.1,https://sra-pub-src-2.s3.amazonaws.com/SRR21131516/StagsLeap.amplified_fast5s.tar.gz.1,0,Stag's Leap,SAMN24371048,644356
+,OLeary,Stags_LeapdeltaXfaIHsdS,https://sra-pub-src-2.s3.amazonaws.com/SRR21131479/StagsLeapdeltaXfaIHsdS.native_fast5s.tar.gz.1,GCA_021459925.1,https://sra-pub-src-2.s3.amazonaws.com/SRR21131478/StagsLeapdeltaXfaIHsdS.amplified_fast5s.tar.gz.1,0,Stag's Leap,SAMN30370983,644356
+,OLeary,Temecula1,https://sra-pub-src-2.s3.amazonaws.com/SRR21131484/Temecula1.native_fast5s.tar.gz.1,GCA_000007245.1,https://sra-pub-src-1.s3.amazonaws.com/SRR21131483/Temecula1.amplified_fast5s.tar.gz.1,0,Temecula1,SAMN30370981,183190

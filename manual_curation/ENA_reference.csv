@@ -1,0 +1,101 @@
+,dataset,sample,ref_source_origin,ref_source
+,ENA,ERR1309545,,
+,ENA,ERR1313294,,
+,ENA,ERR1474978,by strain,GCA_000283455.1
+,ENA,ERR1474981,by strain,AJJI01000000
+,ENA,ERR1611432,assembly from bioproject,GCA_900096675.1
+,ENA,ERR1674581,by strain,GCF_000005845.2
+,ENA,ERR1894865,assembly from bioproject,GCA_900185075.1
+,ENA,ERR2438058,assembly from bioproject,GCA_900536895.1
+,ENA,ERR3861201,,
+,ENA,ERR5191772,assembly from bioproject,GCA_903993085.2
+,ENA,ERR5243236,assembly from bioproject,GCA_903993075.2
+,ENA,ERR5260058,assembly from bioproject,GCA_905220745.1
+,ENA,ERR5353220,assembly from bioproject,GCA_905330875.2
+,ENA,ERR5353275,assembly from bioproject,GCA_905331415.2
+,ENA,ERR5420946,assembly from bioproject,GCA_905333885.2
+,ENA,ERR5671659,assembly from bioproject,GCA_905335775.2
+,ENA,ERR10447806,,
+,ENA,ERR5859545,,
+,ENA,ERR668747,assembly from bioproject,GCA_000944835.1
+,ENA,ERR7058027,,
+,ENA,ERR7477284,assembly from bioproject,GCA_921008455.1
+,ENA,ERR7477323,assembly from bioproject,GCA_921008455.1
+,ENA,ERR762395,by strain,GCA_000815225.1
+,ENA,ERR850259,by strain,GCA_000010245.1
+,ENA,ERR868296,by strain,GCA_000349285.2
+,ENA,ERR968973,by strain,GCF_000005845.2
+,ENA,ERR977574,assembly from bioproject,GCA_001286525.1
+,ENA,ERR9793808,assembly from bioproject,GCA_943733235.1
+,ENA,ERR9793809,assembly from bioproject,GCA_943733345.1
+,ENA,ERR9951991,by strain,GCA_000982435.1
+,ENA,ERR1474979,by strain,GCA_000349285.2
+,ENA,ERR1474980,,
+,ENA,ERR1769944,assembly from bioproject,GCA_900175995.1
+,ENA,ERR1876249,assembly from bioproject,GCA_900169325.1
+,ENA,ERR1898312,assembly from bioproject,GCA_900185075.1
+,ENA,ERR2137852,by strain,GCF_000005845.2
+,ENA,ERR2503999,,
+,ENA,ERR2697194,by strain,GCA_000006765.1
+,ENA,ERR2868914,,
+,ENA,ERR3224043,assembly from bioproject,GCA_900749825.1
+,ENA,ERR3654115,,
+,ENA,ERR3798592,assembly from bioproject,GCA_902702775.1
+,ENA,ERR4327118,assembly from bioproject,GCA_903978235.1
+,ENA,ERR4327121,assembly from bioproject,GCA_903978225.1
+,ENA,ERR4554022,assembly from bioproject,GCA_904129595.1
+,ENA,ERR4593529,,
+,ENA,ERR4656971,assembly from bioproject,GCA_905142495.1
+,ENA,ERR4699901,assembly from bioproject,GCA_905477585.1
+,ENA,ERR5159245,,
+,ENA,ERR5260055,assembly from bioproject,GCA_905220805.1
+,ENA,ERR5260057,assembly from bioproject,GCA_905220695.1
+,ENA,ERR5295497,assembly from bioproject,GCA_905232605.2
+,ENA,ERR5295516,assembly from bioproject,GCA_905232005.2
+,ENA,ERR5295524,assembly from bioproject,GCA_905232115.2
+,ENA,ERR5332016,by strain,GCA_016865525.2
+,ENA,ERR5353121,assembly from bioproject,GCA_905329885.2
+,ENA,ERR5353153,assembly from bioproject,GCA_905330265.2
+,ENA,ERR5353180,assembly from bioproject,GCA_905330515.2
+,ENA,ERR5353270,assembly from bioproject,GCA_905331345.2
+,ENA,ERR5420985,assembly from bioproject,GCA_905337845.2
+,ENA,ERR6415087,assembly from bioproject,GCA_900416705.2
+,ENA,ERR7671854,assembly from bioproject,GCA_947311705.1
+,ENA,ERR850260,by strain,GCA_000010245.1
+,ENA,ERR9951992,by strain,GCA_024296825.1
+,ENA,ERR2503988,,
+,ENA,ERR2603589,,
+,ENA,ERR2697193,by strain,GCA_000006765.1
+,ENA,ERR2868915,,
+,ENA,ERR3097879,,
+,ENA,ERR10096274,,
+,ENA,ERR668746,assembly from bioproject,GCA_000944835.1
+,ENA,ERR11027272,,
+,ENA,ERR11027274,,
+,ENA,ERR2504003,,
+,ENA,ERR2697195,by strain,GCA_000006765.1
+,ENA,ERR3378069,,
+,ENA,ERR3485550,,
+,ENA,ERR3654117,,
+,ENA,ERR3798589,assembly from bioproject,GCA_902702755.1
+,ENA,ERR4173916,,
+,ENA,ERR4173917,,
+,ENA,ERR4179765,,
+,ENA,ERR4327117,assembly from bioproject,GCA_903978195.1
+,ENA,ERR4656970,assembly from bioproject,GCA_905142475.1
+,ENA,ERR4760465,,
+,ENA,ERR5205857,by strain,GCF_001886635.1
+,ENA,ERR5205861,by strain,GCF_001886635.1
+,ENA,ERR5214392,assembly from bioproject,GCA_905219255.2
+,ENA,ERR5260054,assembly from bioproject,GCA_905220785.1
+,ENA,ERR5260056,assembly from bioproject,GCA_905220715.1
+,ENA,ERR5420986,assembly from bioproject,GCA_905337805.2
+,ENA,ERR5420993,assembly from bioproject,GCA_905338025.2
+,ENA,ERR5671664,assembly from bioproject,GCA_905335825.2
+,ENA,ERR6226270,assembly from bioproject,GCA_910822395.1
+,ENA,ERR6415088,assembly from bioproject,GCA_905143135.2
+,ENA,ERR668983,assembly from bioproject,GCA_001051385.1
+,ENA,ERR7477324,assembly from bioproject,GCA_921008455.1
+,ENA,ERR7850327,assembly from bioproject,GCA_926500335.1
+,ENA,ERR868297,,
+,ENA,ERR5420941,assembly from bioproject,GCA_905333855.2

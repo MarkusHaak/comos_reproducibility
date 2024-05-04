@@ -1,5 +1,5 @@
 ,dataset,sample,NAT_source,ref_source,WGA_source,priority,scientific_name,strain,tax_id,sample_accession
-,MicrobeMod,CVM05_Escherichia_coliK12,s3://cultivarium-sequencing/MICROBEMOD-DATA-NOV2023/pod5/,GCF_000005845.2,,0,Escherichia coli,K-12 MG1655,,
+,MicrobeMod,CVM05_Escherichia_coliK12,s3://cultivarium-sequencing/MICROBEMOD-DATA-NOV2023/pod5/,GCF_000005845.2,,0,Escherichia coli,K-12 MG1655,511145,
 ,MicrobeMod,CVM06_Vibrio_natriegens,s3://cultivarium-sequencing/MICROBEMOD-DATA-NOV2023/pod5/,s3://cultivarium-sequencing/MICROBEMOD-DATA-NOV2023/reference_genomes/,,0,Vibrio natriegens,ATCC 14048,1219067,SAMN38186253
 ,MicrobeMod,CVM07_Shewanella_oneidensis,s3://cultivarium-sequencing/MICROBEMOD-DATA-NOV2023/pod5/,s3://cultivarium-sequencing/MICROBEMOD-DATA-NOV2023/reference_genomes/,,0,Shewanella oneidensis,ATCC 700550,70863,SAMN38186260
 ,MicrobeMod,CVM08_Lactococcus_lactis,s3://cultivarium-sequencing/MICROBEMOD-DATA-NOV2023/pod5/,s3://cultivarium-sequencing/MICROBEMOD-DATA-NOV2023/reference_genomes/,,0,Lactococcus lactis,ATCC 19435,1360,SAMN38186255
@@ -29,8 +29,8 @@
 ,MicrobeMod,CVM74_Cellulophaga_lytica,s3://cultivarium-sequencing/MICROBEMOD-DATA-NOV2023/pod5/,s3://cultivarium-sequencing/MICROBEMOD-DATA-NOV2023/reference_genomes/,,0,Cellulophaga lytica,DSMZ 7489,979,SAMN38186279
 ,MicrobeMod,CVM76_Acidithiobacillus_thiooxidans,s3://cultivarium-sequencing/MICROBEMOD-DATA-NOV2023/pod5/,s3://cultivarium-sequencing/MICROBEMOD-DATA-NOV2023/reference_genomes/,,0,Acidithiobacillus thiooxidans,DSMZ 14887,930,SAMN38186280
 ,MicrobeMod,CVM77_Acidiphilium_acidophilum,s3://cultivarium-sequencing/MICROBEMOD-DATA-NOV2023/pod5/,s3://cultivarium-sequencing/MICROBEMOD-DATA-NOV2023/reference_genomes/,,0,Acidiphilium acidophilum,DSMZ 700,76588,SAMN38186281
-,MicrobeMod,CVM80_Escherichia_coliDH10BMOsp807II,s3://cultivarium-sequencing/MICROBEMOD-DATA-NOV2023/pod5/,GCF_030028215.1,,0,Escherichia coli,DH10B-M.Osp807II,,
-,MicrobeMod,CVM80_Escherichia_coliDH10BMXmnI,s3://cultivarium-sequencing/MICROBEMOD-DATA-NOV2023/pod5/,GCF_030028215.1,,0,Escherichia coli,DH10B-M.XmnI,,
-,MicrobeMod,CVM80_Escherichia_coliDH10Bneg,s3://cultivarium-sequencing/MICROBEMOD-DATA-NOV2023/pod5/,GCF_030028215.1,,0,Escherichia coli,C2925H,,
+,MicrobeMod,CVM80_Escherichia_coliDH10BMOsp807II,s3://cultivarium-sequencing/MICROBEMOD-DATA-NOV2023/pod5/,GCF_030028215.1,,0,Escherichia coli,DH10B-M.Osp807II,562,
+,MicrobeMod,CVM80_Escherichia_coliDH10BMXmnI,s3://cultivarium-sequencing/MICROBEMOD-DATA-NOV2023/pod5/,GCF_030028215.1,,0,Escherichia coli,DH10B-M.XmnI,562,
+,MicrobeMod,CVM80_Escherichia_coliDH10Bneg,s3://cultivarium-sequencing/MICROBEMOD-DATA-NOV2023/pod5/,GCF_030028215.1,,0,Escherichia coli,C2925H,562,
 ,MicrobeMod,CVM81_Azospirillum_brasilense,s3://cultivarium-sequencing/MICROBEMOD-DATA-NOV2023/pod5/,s3://cultivarium-sequencing/MICROBEMOD-DATA-NOV2023/reference_genomes/,,0,Azospirillum brasilense,ATCC 29145,192,PRJNA224116
 ,MicrobeMod,CVM82_Flavobacterium_johnsoniae,s3://cultivarium-sequencing/MICROBEMOD-DATA-NOV2023/pod5/,s3://cultivarium-sequencing/MICROBEMOD-DATA-NOV2023/reference_genomes/,,0,Flavobacterium johnsoniae,ATCC 17061,376686,SAMN38186283
