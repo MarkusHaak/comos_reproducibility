@@ -5,3 +5,11 @@
 4,Veillonella,MS107_nitrate,/vol/data/datasets/Veillonella/MS107_nitrate/,/vol/data/references/Veillonella/MS107/MS107.fasta,/vol/data/datasets/Veillonella/MS107_control/,0
 5,Veillonella,MS109_lactate,/vol/data/datasets/Veillonella/MS109_lactate/,/vol/data/references/Veillonella/MS109/MS109.fasta,/vol/data/datasets/Veillonella/MS109_control/,0
 6,Veillonella,MS109_nitrate,/vol/data/datasets/Veillonella/MS109_nitrate/,/vol/data/references/Veillonella/MS109/MS109.fasta,/vol/data/datasets/Veillonella/MS109_control/,0
+7,Veillonella,MS055_lactate,/vol/data/datasets/Veillonella/MS055_lactate/,/vol/data/datasets/Veillonella/consensus_assembly/MS055_hybrid/,/vol/data/datasets/Veillonella/MS061_control/,0
+8,Veillonella,MS055_nitrate,/vol/data/datasets/Veillonella/MS055_nitrate/,/vol/data/datasets/Veillonella/consensus_assembly/MS055_hybrid/,/vol/data/datasets/Veillonella/MS061_control/,0
+9,Veillonella,MS065_lactate,/vol/data/datasets/Veillonella/MS065_lactate/,/vol/data/datasets/Veillonella/consensus_assembly/MS065_hybrid/,/vol/data/datasets/Veillonella/MS061_control/,0
+10,Veillonella,MS065_nitrate,/vol/data/datasets/Veillonella/MS065_nitrate/,/vol/data/datasets/Veillonella/consensus_assembly/MS065_hybrid/,/vol/data/datasets/Veillonella/MS061_control/,0
+11,Veillonella,MS069_lactate,/vol/data/datasets/Veillonella/MS069_lactate/,/vol/data/datasets/Veillonella/consensus_assembly/MS069_hybrid/,/vol/data/datasets/Veillonella/MS061_control/,0
+12,Veillonella,MS069_nitrate,/vol/data/datasets/Veillonella/MS069_nitrate/,/vol/data/datasets/Veillonella/consensus_assembly/MS069_hybrid/,/vol/data/datasets/Veillonella/MS061_control/,0
+13,Veillonella,MS097_lactate,/vol/data/datasets/Veillonella/MS097_lactate/,/vol/data/datasets/Veillonella/consensus_assembly/MS097_hybrid/,/vol/data/datasets/Veillonella/MS061_control/,0
+14,Veillonella,MS097_nitrate,/vol/data/datasets/Veillonella/MS097_nitrate/,/vol/data/datasets/Veillonella/consensus_assembly/MS097_hybrid/,/vol/data/datasets/Veillonella/MS061_control/,0
